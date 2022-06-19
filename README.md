@@ -68,5 +68,5 @@
 ---------
 * 운영체제 : Windows 10
 * 개발 언어 : JAVA17
-* 
+* DB : Mysql
 * 개발 환경 : Eclipse
